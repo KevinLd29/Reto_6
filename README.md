@@ -6,7 +6,7 @@ Ya puesto en modo serio, por comodidad y más que todo porque eran programas sen
 Cada comentario explica que solucion se está dando ante que problematica, espero se logre entender.
 (Como es de costumbr, pueden copiar y pegar el código mucho más fácil con esta función de Markdown que me salvó la vida)
 
-# 1
+# Punto 1
 ````python
 import math
 # Tronco de cono
@@ -17,7 +17,7 @@ def areaTroncoConico(r1, r2, h):
     return math.pi * (r1 + r2) * math.sqrt((r2 - r1)**2 + h**2) + math.pi*r1**2 + math.pi*r2^2
 
 ````
-# 2
+# Punto 2
 ```python
 import math
 # Círculo
@@ -28,14 +28,14 @@ def perimetroCirculo(r):
     return 2 * math.pi * r
 
 ````
-# 3
+# Punto 3
 ```python
 import math
 # Función de carne de aves
 def cantidadCarne(N, M, K):
     return N*6 + M*7 + K
 ````
-# 4
+# Punto 4
 ```python
 import math
 # Vueltas de la compra
@@ -43,7 +43,7 @@ def vueltas(P, M, H, B):
     total = P*300 + M*3300 + H*350
     return B - total
 ````
-# 5
+# Punto 5
 ```python
 import math
 
@@ -51,7 +51,7 @@ import math
 def prestamo(C, i, n):
     return C * ((1 + i)**n)
 ````
-# 6
+# Punto 6
 ```python
 import math
 # Número total de contagiados
@@ -59,7 +59,7 @@ def contagiados(C, D):
     return C * (2**D)
 
 ````
-# 7
+# Punto 7
 ```python
 def promedio(nums):
     return sum(nums) / len(nums)
@@ -92,7 +92,7 @@ def raizCubica(nums):
 ````
 Afortunadamente, ya había trabajado este caso entonces fue tomar practicamente el mismo código y adecuarlo a este, esto sí es ingeniería Jaja.
 
-# 8
+# Punto 8
 ```python
 from funciones import *
 
