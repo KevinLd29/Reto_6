@@ -1,7 +1,7 @@
 # Reto6
 
 Primero que todo, buenos días, segundo, Millonarios JAJA.
-Ya puesto en modo serio, por comodidad y más que todo porque eran programas sencillos con soluciones sencillas (Y para no seguir llegando mi PC con puros programas individuales) los hice en un cuadernillo, que siento que es lo mejorcito que se puede poner en estos casos.
+Ya puesto en modo serio, por comodidad y más que todo porque eran programas sencillos con soluciones sencillas (Y para no seguir llegando mi PC con puros programas individuales) los hice en un cuadernillo, que siento que es lo mejorcito que se puede poner en estos casos. (Perdón si se ve desorden)
 
 Cada comentario explica que solucion se está dando ante que problematica, espero se logre entender.
 (Como es de costumbr, pueden copiar y pegar el código mucho más fácil con esta función de Markdown que me salvó la vida)
