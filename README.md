@@ -5,7 +5,31 @@ Ya puesto en modo serio, por comodidad y más que todo porque eran programas sen
 
 Cada comentario explica que solucion se está dando ante que problematica, espero se logre entender.
 (Como es de costumbr, pueden copiar y pegar el código mucho más fácil con esta función de Markdown que me salvó la vida)
+Tenemos los siguientes problemas para solucionar:
+Diseñe una función que calcule la cantidad de carne de aves en kilos si se tienen N gallinas, M gallos y K pollitos cada uno pesando 6 kilos, 7 kilos y 1 kilo respectivamente.
 
+Mi mamá me manda a comprar P panes a 300 cada uno, M bolsas de leche a 3300 cada una y H huevos a 350 cada uno. Hacer un programa que me diga las vueltas (o lo que quedo debiendo) cuando me da un billete de B pesos.
+
+Haga un programa que utilice una función para calcular el valor de un préstamo C usando interés compuesto del i por n meses.
+
+El número de contagiados de Covid-19 en el país de NuncaLandia se duplica cada día. Hacer un programa que diga el número total de personas que se han contagiado cuando pasen D días a partir de hoy, si el número de contagiados actuales es C.
+
+Escriba un programa que pida 5 números reales y calcule las siguientes operaciones usando una función para cada una:
+
+El promedio
+La mediana
+El promedio multiplicativo (multilplica todos y luego calcula la raíz de la cantidad de operandos)
+Ordenar los números de forma ascendente
+Ordenar los números de forma descendente
+La potencia del mayor número elevado al menor número
+La raíz cúbica del menor número
+Para el punto anterior incluir las funciones en un archivo independiente e importarlas para su uso.
+
+Consultar qué es y cómo funciona pip en python.
+
+Así que les daremos solución a continuación:
+
+Hacer un listado de módulos populares para python que se puedan instalar com pip y consultar cómo instalarlos.
 # Punto 1
 ````python
 import math
